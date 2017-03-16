@@ -1,0 +1,22 @@
+seb:
+  city: Paris
+  picture: card-paris.jpg
+  name: Seb's home
+  summary: Charming room with patio
+  avatar: seb.jpg
+  rating: 2
+anne:
+  city: Brussels
+  picture: card-brussels.jpg
+  name: Anne's home
+  summary: Lovely house
+  avatar: anne.jpg
+  rating: 4
+romain:
+  city: London
+  picture: card-london.jpg
+  name: Romain's home
+  summary: Huge flat with view
+  avatar: romain.jpeg
+  rating: 5
+
